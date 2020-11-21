@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Review - Paku-Paku (MS-DOS)"
+date:   2020-11-20 22:00:00 -0500
+categories: general
+---
+Originally Written: **Early 2017**
+
+As expected, *Pac-Man* has had its fair share of ports, many of them on MS-DOS. The first one, *PC-Man*, was competent enough for a 1982 IBM 5150 game. The official port of *Pac-Man*, which came from Atarisoft, came out a year later. It was a much less polished and much more awkward experience than the former. Then came a bevy of ports and conversions, both official and unofficial. None of them are particularly noteworthy.
+
+Well, there is one exception. Surprisingly, it is from 2011.
+
+You can thank Jason Knight for that. His contribution to the sea of MS-DOS *Pac-Man* ports: *Paku-Paku*.
+
+Given the hardware the game was designed for, and relative to the other two major MS-DOS *Pac-Man* ports, *Paku-Paku* is an impressive port. Consider the other main *Pac-Man* ports: *PC-Man* and Atarisoft’s *Pac-Man*. Both games have four colors. Due to the technology behind CGA (the graphics standard that these games are based on), you can only have four colors on the screen at one time, usually from a preselected palate of four colors. To be honest, none of those colors look aesthetically pleasing. All together, they look awful. In contrast, *Paku-Paku* has a crisp visual design. What is more impressive is that for a game made with CGA in mind, *Paku-Paku* has sixteen onscreen colors.
+
+Honestly, aside from being a very polished *Pac-Man* port, this is the games main selling point. Knight exploited peculiarities within CGA, allowing him to use an undocumented text mode with access to all sixteen colors. The result: a sixteen color *Pac-Man* clone with a faithful look and the pleasing chunky aesthetic. In terms of technical achievements, that is not all. The game has support for a variety of graphics cards, ranging from CGA to Tandy to VGA. There is also a lot of support for sound, with sound systems ranging from PC speakers to General MIDI being supported. For a port made with thirty-five-year-old hardware in mind, *Paku-Paku* is sophisticated in its support.  Technical achievements aside, the game is an extremely polished *Pac-Man* port. Mechanically, *Paku-Paku* is very close to its source. Just like in the original you play a yellow circle with a slice removed from it walking down long, dark corridors eating lots of dots and avoiding masked specters. It is classic *Pac-Man*, and it is great.
+
+Of course, there are a few differences between the arcade original and this game. For example, in the original, Pac-Man slows down when he eats the docs. In contrast, in this game, Pac-Man does not slow down compared is not a significant issue, but it is lamentable that this subtle piece of gameplay is missing from this. Some issues also revolve around the speed of the game. Although this gets fixed quickly, the first few levels have Pac-Man going way too slow. This has the weird effect of making the first levels the hardest in the game.
+
+Not that the difficulty is notoriously hard. This game, compared to the ports and the original is surprisingly easier. Again, this is mainly a non-issue. In fact, I rather like the reduction in difficulty. In contrast to other ports and the arcade original, where I can barely get past the fourth level. In *Paku-Paku*, I can get well past the tenth level, and still have many lives to spare. There are two factors to this. The speed plays a significant role. Also, there is a role that the point system plays. Unlike a lot of ports and conversions, in *Paku-Paku*, every 10,000 points yields you an extra life. Any skilled player can get over 8,000 points within a level. So, it is easy to gain many extra lives.
+
+There is not much else to talk about regarding *Paku-Paku*. Simply put, it’s just a highly polished, technically impressive port of the 1980 original. The fact that it is free almost forces me to make a recommendation for this game.  It is an impressive game; go out and play it.
