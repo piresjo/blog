@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Review - Super Mario 3D Land (Nintendo 3DS)"
+date:   2020-11-20 22:00:00 -0500
+categories: general
+---
+
+Originally Written: **February 2016**
+
+It begins like every other game in the series. Once again, Princess Peach is captured by an increasingly obsessive Bowser. Once again, Mario has the responsibility of rescuing her.
+
+Once again, it is a highly refined, entertaining experience.
+
+Unlike the comparatively revolutionary *Super Mario Galaxy*, *Super Mario 3D Land* adopts a more conservative style of platforming. That becomes rather apparent in the first world that the plucky plumber traverses through.
+
+Starting off, the visual style is much more conservative than its two predecessors. The lurid and lush style of the *Galaxy* games is disregarded in favor of a more stereotypically *Mario* aesthetic. It is quite obvious that Nintendo borrowed heavily from the aesthetics of *Super Mario Brothers 3*. Given the last three main 3D games, and the hardware behind the 3DS, the aesthetic works, and the game looks great for an early Nintendo 3DS title.
+
+The soundtrack undergoes similar changes. The orchestration and style of the soundtrack has been pared down. The full orchestra, used frequently in the Galaxy games, is used rather sparingly. In its place are countless tracks orchestrated for smaller ensembles. Here, the big band is prominent.
+
+On a deeper level, this conservatism is expressed through the level design as well. Geometrically, the levels are designed very simply, with many of the platforms being comprised of simple 2D and 3D shapes. Again, this contrasts with the more geometrically varied designs found in both *Galaxy* games and *Sunshine*. Even more jarring is how explicitly linear the levels are. Again, I am reminded of the highly linear level design of both *Super Mario Brothers* and *Super Mario Brothers 3*.
+
+To be fair, there are some additions to the retro-inspired level design. Some small aspects of stages utilize the 3DS’ hardware. Certain special stages take advantage of the autostereoscopic graphics to varied success. A more successful utilization involves the gyroscope. Some stages have binoculars. By moving the 3DS around, you can see more of the stage, as well as allow you to find bonuses (usually star coins and 1-Up mushrooms). On top of that, much like *New Super Mario Brothers*, if Mario jumps on certain clouds, he is sent on an exhilarating run through the sky.
+
+Even the camera is less sophisticated than previous games. The camera is now fixed, with little opportunity to move it. Honestly, given the highly linear and simplified design endemic to the game, the fixed camera works surprisingly well. There is one major exception: movement – especially jumping – along the z-axis. Given the fixed camera, it is sometimes difficult to gauge jumps along the z-axis. The result: a fair amount of unnecessary deaths (not that this matters too much, as I will explain later).
+
+The controls also reflect this retro-inspired philosophy. Starting off, observe what happens when you move Mario in a circle. Although not that substantial, Mario does not go in a circle, unlike in *Galaxy*, *Sunshine*, or *Mario 64*. His movement is much more octagonal, as shown from the dust Mario kicks up when running.
+
+More substantial is the lack of the triple jump, running being mapped to a separate button instead of being based off the analog stick, and the relative uselessness of the side flip and the long jump. Sure, this is not game-breaking. Also, it is not like these movements are needed to progress. Of course, that is ultimately true for games like *Mario 64*. However, those moves made for smoother platforming experiences. In that game (along with *Sunshine* and *Galaxy*), relatively skilled platforming was rewarded much more, and the reduction in controls in this game seems like a dumbing down on Nintendo’s part. Frankly, it’s silly.
+
+On a more positive note, the paring down of the game design also help bring some more subtle aspects of the game to the surface. The best example: the level design itself. With some exceptions, each level is rather self-contained, with a specific gimmick to make the level memorable. The process is four-pronged: an introduction to the gimmick, development of the gimmick, mastery of the gimmick, and a summation of the gimmick’s use throughout the level.
+
+For instance, there is World 4-3. Rotating colored blocks are this level’s gimmick. As an introduction, Mario encounters some easily navigable block platforms. The distances between them are rather small, the blocks go at a manageable speed, and it is difficult to fall off. As the level progresses, the blocks change size, and go at a variety of speeds, requiring the player to utilize more sophisticated platforming. This reaches its climax at the end of the level, where the player must traverse through a long series of moving blocks. The blocks are moving at different speeds, the blocks are different sizes, and now there are flying Goombas in the way. In order to reach the flagpole unscathed, the player must understand the level’s gimmick intimately. This section seamlessly leads to the summation of the gimmick, where Mario must jump on a series of rotating blocks to scale the flagpole.
+
+It is system that works very well. To start off, it allows for levels to be fresh and interesting, since these gimmicks are not reused that often. Second, it helps prevent the need for explicit tutorials, which creeped into previous 3D Mario games (*Galaxy*I and its direct sequel comes to mind). In this regard, this style of gameplay is highly evocative of the NES *Mega Man* games, which had a similar structure. Of course, it should be noted that this structure is not used in all levels. Many of the boss stages and a lot of World 8 do not follow the structure as explicitly or as faithfully as expected. Granted, that is not much of an issue.
+
+Like other contemporary Mario games, *3D Land* is extremely easy. Almost all the levels are replete with power-ups. Furthermore, the enemies are extremely predictable. And on top of that it is very easy to get extra lives. Coins are easy to get, green mushrooms are plentiful, topping a flagpole (which is relatively easy) gives you an extra life, and holding certain power-ups until the end of the level gains you an extra life. In my personal experience, by the end of World 8, I had over one hundred lives; I would not be surprised if this was a somewhat common occurrence.
+
+If that is not enough of a reduction in difficulty, if Mario dies enough times, he gets a special power up: a white Tanooki suit. With this power-up, Mario is practically invincible. If that is not enough, if Mario dies enough times after getting the suit, there is a pipe that will just send him to the end of level. On one hand, it is commendable for Nintendo to try to make the game more accessible to younger and more inexperienced players. But at the same time, it is already very easy to begin with. Personally, the last Mario game with any significant difficulty was *Super Mario Brothers 3*. Again, it kind of seems like dumbing down, although you do not have to use these shortcuts.
+
+Let’s be honest: we have all used the white Tanooki suit.
+
+Nintendo does try to compensate for this in some ways. First, in accordance the rest of the rather retro design philosophy of this game, each level now has a timer, much like in 2D Mario games. However, with some exceptions, this change is not that substantial in terms of difficulty. The only time where the timer comes into play are the few stages that Mario has to traverse through in under a minute.
+
+Also, returning from *New Super Mario Brothers is the star coin*. Each level has three star coins, which are mainly awards for relatively sophisticated platforming. To be fair, many of the star coins are quickly visible and pretty easy to obtain. However, there are a good few that require some sophisticated level of platforming. Overall, the star coins are a nice way to increase difficulty and replay value (not that it is particularly needed).
+
+I say that because of what happens after you rescue Princess Peach. After rescuing the infamous damsel in distress, Mario has another eight more worlds to go through. In that first extra world, he must rescue his brother. After rescuing Luigi, he becomes a playable character in the game. Frankly, Luigi does not bring too much to the table, but he is a welcome addition to the game. Furthermore, the levels get harder and many of them are much more interesting than many levels in the main game. The amount of extra content is staggering and extremely impressive, and I commend Nintendo for adding it.
+
+It is not surprising that *Super Mario 3D Land* is a highly refined and thoroughly entertaining experience. What is surprising is how well the retro-inspired and conservative design philosophy works. Aside from some minor hiccups regarding design details and implementation, *Super Mario 3D Land* is a great game and well worth the time spent.
+
+By the way, can we stop having Princess Peach be the damsel in distress? It is starting to get stale.
+
